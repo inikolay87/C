@@ -1,2 +1,2 @@
-# C
-Repo for C-programs 
+# ProgressBar
+ProgressBar example to use in any C-project
